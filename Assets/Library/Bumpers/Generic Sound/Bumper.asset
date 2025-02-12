@@ -27,3 +27,4 @@ MonoBehaviour:
   _loop: 0
   _fadeInTime: 0
   _fadeOutTime: 0
+  _cooldown: 0
