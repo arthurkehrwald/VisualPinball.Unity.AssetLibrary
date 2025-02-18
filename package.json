@@ -7,8 +7,8 @@
     "Assets",
     "Unity"
   ],
-  "unity": "2020.2",
-  "unityRelease": "0f1",
+  "unity": "6000.0",
+  "unityRelease": "37f1",
   "dependencies": {},
   "author": "freezy <freezy@vpdb.io>",
   "contributors": [
@@ -20,7 +20,8 @@
     "Rowlan",
     "Kleis Auke Wolthuizen <info@kleisauke.nl>",
     "Eli Curtz <eli@nuprometheus.com>",
-    "Pandeli"
+    "Pandeli",
+    "Arthur Kehrwald"
   ],
   "documentationUrl": "https://docs.visualpinball.org/",
   "changelogUrl": "https://docs.visualpinball.org/CHANGELOG.html",
