@@ -29,4 +29,4 @@ MonoBehaviour:
   ThumbCameraPreset: {fileID: 2655988077585873504, guid: e361b46afd684324dbc1ddcecd669c95, type: 2}
   ThumbCameraHeight: 0
   UnpackPrefab: 0
-  Quality: 2
+  Quality: 4

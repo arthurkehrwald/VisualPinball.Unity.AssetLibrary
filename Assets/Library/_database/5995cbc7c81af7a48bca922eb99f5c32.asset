@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81a98b83d8e16314b9e008c07c0fc397, type: 3}
+  m_Name: 5995cbc7c81af7a48bca922eb99f5c32
+  m_EditorClassIdentifier: 
+  Library: {fileID: 11400000, guid: a42f2c173b443374fab2544379eb3b0a, type: 2}
+  Object: {fileID: 7699796167282593510, guid: 5995cbc7c81af7a48bca922eb99f5c32, type: 3}
+  _categoryId: 533ca600-0917-471b-94da-7d87bb5d18fe
+  _addedAt: 2024-12-09T13:43:43.4340773+01:00
+  Description: The "Rectangle" drop target included in VPX. Same geometry and same
+    UV map, but includes a material.
+  Attributes:
+  - Key: Source
+    Value: VPX
+  Tags:
+  - TagName: Hit Target
+  Links: []
+  MaterialVariations: []
+  EnvironmentGameObjectName: Playfield - Target - 0.65in
+  ThumbCameraPreset: {fileID: 0}
+  ThumbCameraHeight: -0.003
+  UnpackPrefab: 0
+  Quality: 4

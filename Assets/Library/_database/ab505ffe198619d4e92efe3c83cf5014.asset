@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81a98b83d8e16314b9e008c07c0fc397, type: 3}
+  m_Name: ab505ffe198619d4e92efe3c83cf5014
+  m_EditorClassIdentifier: 
+  Library: {fileID: 11400000, guid: a42f2c173b443374fab2544379eb3b0a, type: 2}
+  Object: {fileID: 1570717197957835318, guid: ab505ffe198619d4e92efe3c83cf5014, type: 3}
+  _categoryId: 95d84203-7bce-4ed1-a789-178e370aee19
+  _addedAt: 2024-12-09T13:31:02.6021116+01:00
+  Description: The "Long Plate" gate included in VPX. Same geometry and same UV map,
+    but includes a material.
+  Attributes:
+  - Key: Source
+    Value: VPX
+  Tags: []
+  Links: []
+  MaterialVariations: []
+  EnvironmentGameObjectName: 
+  ThumbCameraPreset: {fileID: 0}
+  ThumbCameraHeight: 0.0269875
+  UnpackPrefab: 0
+  Quality: 4
